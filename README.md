@@ -7,4 +7,7 @@ This home weather station is a STM32 microcontroller-based device. It performs m
  - PM (Particulate Matter) concentration
 and moreover it alarms of presence of flammable gases such as propane or buthane.
 
-https://github.com/user-attachments/assets/3377030f-bc18-4d2d-802c-7e2d54a79411
+
+
+https://github.com/user-attachments/assets/9bdbaac8-06a2-42ca-afe4-3092634e5976
+
