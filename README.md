@@ -10,7 +10,7 @@ and moreover it alarms of presence of flammable gases such as propane or buthane
 https://github.com/user-attachments/assets/9bdbaac8-06a2-42ca-afe4-3092634e5976
 
 
-##Polski
+## Polski
 Projekt domowej stacji pogody oparty o wykorzystanie mikrokontrolera STM32G491RE. Wykonuje pomiary takie jak:
 - temperatura wewnętrzna
 - temperatura zewnętrzna
